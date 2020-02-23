@@ -1,0 +1,10 @@
+version = 0.1
+[default]
+[default.deploy]
+[default.deploy.parameters]
+stack_name = "test123"
+s3_bucket = "aws-sam-cli-managed-default-samclisourcebucket-wqeveyqlrwem"
+s3_prefix = "test123"
+region = "us-west-1"
+profile = "ht"
+capabilities = "CAPABILITY_IAM"
