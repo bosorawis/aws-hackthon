@@ -1,0 +1,10 @@
+C:\ProjDev\VS2017\aws-hackthon\hack_michael\hack_michael\bin\Release\netcoreapp2.1\rhel.7.2-x64\hack_michael.deps.json
+C:\ProjDev\VS2017\aws-hackthon\hack_michael\hack_michael\bin\Release\netcoreapp2.1\rhel.7.2-x64\hack_michael.runtimeconfig.json
+C:\ProjDev\VS2017\aws-hackthon\hack_michael\hack_michael\bin\Release\netcoreapp2.1\rhel.7.2-x64\hack_michael.runtimeconfig.dev.json
+C:\ProjDev\VS2017\aws-hackthon\hack_michael\hack_michael\bin\Release\netcoreapp2.1\rhel.7.2-x64\hack_michael.dll
+C:\ProjDev\VS2017\aws-hackthon\hack_michael\hack_michael\bin\Release\netcoreapp2.1\rhel.7.2-x64\hack_michael.pdb
+C:\ProjDev\VS2017\aws-hackthon\hack_michael\hack_michael\obj\Release\netcoreapp2.1\rhel.7.2-x64\hack_michael.csprojAssemblyReference.cache
+C:\ProjDev\VS2017\aws-hackthon\hack_michael\hack_michael\obj\Release\netcoreapp2.1\rhel.7.2-x64\hack_michael.AssemblyInfoInputs.cache
+C:\ProjDev\VS2017\aws-hackthon\hack_michael\hack_michael\obj\Release\netcoreapp2.1\rhel.7.2-x64\hack_michael.AssemblyInfo.cs
+C:\ProjDev\VS2017\aws-hackthon\hack_michael\hack_michael\obj\Release\netcoreapp2.1\rhel.7.2-x64\hack_michael.dll
+C:\ProjDev\VS2017\aws-hackthon\hack_michael\hack_michael\obj\Release\netcoreapp2.1\rhel.7.2-x64\hack_michael.pdb

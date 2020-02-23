@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>hack_michael</id>
+    <version>1.0.0</version>
+    <authors>hack_michael</authors>
+    <owners>hack_michael</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.1">
+        <dependency id="AWSSDK.DynamoDBv2" version="3.3.101.25" exclude="Build,Analyzers" />
+        <dependency id="Amazon.Lambda.Core" version="1.1.0" exclude="Build,Analyzers" />
+        <dependency id="Amazon.Lambda.DynamoDBEvents" version="1.1.0" exclude="Build,Analyzers" />
+        <dependency id="Amazon.Lambda.Serialization.Json" version="1.5.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\ProjDev\VS2017\aws-hackthon\hack_michael\hack_michael\bin\Release\netcoreapp2.1\hack_michael.runtimeconfig.json" target="lib\netcoreapp2.1\hack_michael.runtimeconfig.json" />
+    <file src="C:\ProjDev\VS2017\aws-hackthon\hack_michael\hack_michael\bin\Release\netcoreapp2.1\hack_michael.dll" target="lib\netcoreapp2.1\hack_michael.dll" />
+  </files>
+</package>
